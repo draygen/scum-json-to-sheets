@@ -1,5 +1,5 @@
 # scum-json-to-sheets
-SCUM JSON to Google Sheets utility 
+PC Game SCUM JSON to Google Sheets utility 
 
 The goal of the project is to create a tool with a GUI that facilitates the interaction between JSON files and Google Sheets. This tool will essentially serve as a bridge to translate and synchronize data between these two formats..
 
